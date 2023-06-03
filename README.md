@@ -1,2 +1,20 @@
 # Trabalho-de-DIW
-imagens e códigos do trabalho
+imagens do trabalho
+![Black Bullet](https://github.com/Paulo-RL/Trabalho-de-DIW/assets/123781114/f1ded425-8542-4d94-b623-ebbd18ab53fc)
+![BSDB](https://github.com/Paulo-RL/Trabalho-de-DIW/assets/123781114/2de6b534-262c-4d30-a464-3d3c9344a305)
+![Death mage](https://github.com/Paulo-RL/Trabalho-de-DIW/assets/123781114/1d0ec134-5b98-4f0c-8dc5-2458cf986337)
+![Death Note another note](https://github.com/Paulo-RL/Trabalho-de-DIW/assets/123781114/1c3c1625-41bd-414a-b90b-e73efff26311)
+![Douluo dalu](https://github.com/Paulo-RL/Trabalho-de-DIW/assets/123781114/8a00628f-cd10-49f9-9f2c-93fa58f71424)
+![Jojo SC](https://github.com/Paulo-RL/Trabalho-de-DIW/assets/123781114/38a694b3-c946-4bb0-beae-a7b99f5bca05)
+![kimetsu](https://github.com/Paulo-RL/Trabalho-de-DIW/assets/123781114/e0ccf9a2-86ac-4af0-adfc-7cbe3929c14d)
+![kumoko](https://github.com/Paulo-RL/Trabalho-de-DIW/assets/123781114/38b9f947-b7c4-48f8-b1e8-5ad5d0a907dc)
+![NoGNoL](https://github.com/Paulo-RL/Trabalho-de-DIW/assets/123781114/31acb6fe-73a9-4cfb-afb1-0a9303cc7c8e)
+![overlord 2](https://github.com/Paulo-RL/Trabalho-de-DIW/assets/123781114/48fa5507-8269-4eb3-b141-b9f9f0d8caeb)
+![Owari no seraph](https://github.com/Paulo-RL/Trabalho-de-DIW/assets/123781114/383e024c-2a83-487d-ab4d-89a43efc1e99)
+![slime](https://github.com/Paulo-RL/Trabalho-de-DIW/assets/123781114/89c18d41-3b6b-46a1-9462-f1a5566f5048)
+![Solo Leveling](https://github.com/Paulo-RL/Trabalho-de-DIW/assets/123781114/e711a097-3273-402b-9dd0-8c857380f956)
+![Soul Eater](https://github.com/Paulo-RL/Trabalho-de-DIW/assets/123781114/5079fbb5-ac15-410a-9ab5-e4abdc7801e5)
+![suicide hunter](https://github.com/Paulo-RL/Trabalho-de-DIW/assets/123781114/a8cec3c7-5500-4d28-b8d0-93f67ef6d5c0)
+![sword](https://github.com/Paulo-RL/Trabalho-de-DIW/assets/123781114/4644de6c-55d6-411a-aa80-d261b7125958)
+![the beginning after the end](https://github.com/Paulo-RL/Trabalho-de-DIW/assets/123781114/4cf2f38d-ab6e-45ec-997f-ab7973904977)
+![hunter x hunter](https://github.com/Paulo-RL/Trabalho-de-DIW/assets/123781114/d83d45b2-e94a-446e-8265-84a1ed7429ef)
